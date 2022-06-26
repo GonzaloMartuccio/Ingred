@@ -71,7 +71,7 @@ header .logo {
 /*///////////////////////////NAV/////////////////////*/
 
 /*/////////////////////////TITULOS//////////////////*/
-h1{
+h2{
     text-align: center;
     width: 100%;
     padding: 2rem;
@@ -109,9 +109,8 @@ h6{
 /*////////////////////////MAIN/////////////////////*/
 .destacados{
     display: grid   
-    grid-template-columns: 1px 2px 1px;
-    grid-template-rows: auto; 
-    
+    grid-template-columns 1px 2px 1px;
+    grid-template-rows: auto;  
 } 
 
 .productos{
