@@ -1,0 +1,51 @@
+/*//////////////////////NAV BAR//////////////////////*/
+.bg-gonz{
+    background-color: rgba(163, 212, 230, 0.992);
+}
+
+
+
+
+/*/////////////////////////HEADER///////////////////*/
+header input{
+    width: 10rem;
+    height: 1.5rem;
+}
+
+/* .login{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: auto auto auto;      
+} */
+.login{
+    flex-wrap: wrap;
+}
+
+header{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around; 
+    align-items: center;
+
+}
+
+.login img {
+    width: 2rem;
+    grid-row: 1/3;
+    transition-duration: 3s;
+}
+
+.headerimg{
+    width: 2rem;
+}
+
+
+
+/*/////////////////////////HEADER////////////////////*/
+
+/*/////////////////////////FOOTER////////////////////*/
+
+.footerlogo{
+    width: 7rem;     
+}
+
