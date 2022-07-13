@@ -1,8 +1,12 @@
 /*///////////////////////////////SCSS/////////////////////////////*/
-@import './fonts';
-@import './variables';
+
+/*//////////////BASE////////////////*/
+@import './base/variables';
+@import './base/mapas';
+@import './base/listas';
 
 /*/ Components/*/ 
+@import './fonts';
 @import './components/footer';
 @import './components/header';
 @import './components/maintitles';
