@@ -96,7 +96,7 @@
 }
 
 .logo {
-  width: 9rem;
+  width: 6rem;
 }
 
 .loginregister img {
@@ -148,7 +148,7 @@ header {
 
 h3 {
   font-size: 60px;
-  font-weight: 900;
+  font-weight: 1900;
   color: #FEBA0B;
 }
 
@@ -244,5 +244,15 @@ h5 {
 }
 
 /*///////////////////////TRABAJA CON NOSOTROS//////////////////////*/
+/*////////////////////PROMOCIONES//////////////////////*/
+.promo1 {
+  width: 30%;
+}
+
+.promo2 {
+  width: 30%;
+}
+
+/*////////////////////PROMOCIONES//////////////////////*/
 
 /*# sourceMappingURL=style.css.map */
