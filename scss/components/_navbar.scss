@@ -3,4 +3,10 @@
     background-color: rgba(163, 212, 230, 0.992);
 }
 
+@media only screen and (max-width 600px){
+    body {
+        background-color: black;
+    }
+}
+
 /*//////////////////////NAV BAR//////////////////////*/

@@ -66,7 +66,7 @@
 }
 
 .contactform{
-    width: 60%;
+    width: 100%;
     padding: 40px;
     background: #eaedf1;
 }
@@ -81,4 +81,31 @@
     width: 100%;
     margin-top: 10px;      
 }
+
+.trabajar-container{
+    width: 300px;
+    margin: 20px;    
+    background-color: rgba(233, 148, 148, 0.384);
+    border-color: #bfc4c9;
+    transform: translate(0);   
+    animation-duration: 5s;
+    
+}
+
+@keyframes trabajar-container{
+    from{
+        transform: translate(0);
+
+    }
+
+    to{
+        transform: translate(100px);
+
+    }
+
+}
+
+
+    
+
 /*///////////////////////TRABAJA CON NOSOTROS//////////////////////*/
