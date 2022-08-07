@@ -7,3 +7,14 @@
     padding: 20px;
 }
 
+.franquicia-datos:hover{
+    font-weight: 900;
+    transform: scale(3);
+    transition-duration: 3s;
+    background-color: rgba(75, 71, 71, 0.949);
+    text-decoration: overline, wheat;
+    color: antiquewhite;
+    width: auto;
+    box-sizing: border-box; 
+
+}

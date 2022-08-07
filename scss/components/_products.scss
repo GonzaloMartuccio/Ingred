@@ -18,8 +18,7 @@
 
 
 .grid-container{
-    display: grid;
-    grid-template-rows: 180px 180px;
+    display: grid;  
     grid-template-columns: repeat(3, 1fr);
     gap: 2px;
     width: 100%; 
@@ -41,7 +40,8 @@
     list-style: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    height: fit-content;    
+    height: fit-content;
+    padding-left: 0;    
 }
 
 .grid-item ul li:hover {
